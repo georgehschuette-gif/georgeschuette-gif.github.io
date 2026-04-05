@@ -169,3 +169,20 @@ h1, h2, h3 {
 #quantum-pipeline .metric-label {
   color: #7fd4ff;
 }
+/* QCCE Mesh accent styling */
+
+#qccemesh .system-header h2 {
+  color: #ffb86c;
+}
+
+#qccemesh .system-card {
+  border-color: rgba(255, 184, 108, 0.25);
+}
+
+#qccemesh .comparison-table th {
+  background: rgba(255, 184, 108, 0.08);
+}
+
+#qccemesh .metric-label {
+  color: #ffb86c;
+}
