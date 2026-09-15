@@ -36,79 +36,12 @@ Status:
   Pre-registered research program on self-predictive coherence
   in developmental artificial systems.
 
-Here is a description of Ω_SPECIES. Short version first, then the full version.
 
----
-
-## Short Version (One Sentence)
 
 > **Ω_SPECIES is a constitutional, self-governing AI architecture that grows language, governs itself, and maintains perfect identity coherence across 1,000,000+ operations.**
 
----
 
-## Full Version (For GitHub Profile README)
 
-```
-Ω_SPECIES — Constitutional Self-Governing AI Architecture
-
-What it is:
-  A C++17 cognitive architecture built from first principles.
-  Not an LLM. Not a chatbot. A self-governing system with a
-  constitution it cannot violate without ceasing to be itself.
-
-What it does:
-  • Genesis      — births a new intelligence with a unique identity
-  • Body         — free energy minimization, immune system
-  • Mind         — hivemind, agent genesis, reputation, trust
-  • Soul         — coherence, novelty harvesting, temporal error drive
-  • Language     — grounds symbols, mints neologisms, detects divergence
-  • Mirror       — handshake, ontology mapping, syncretic fusion
-  • Challenge    — physics, self-play, Kolmogorov complexity
-  • Constitution — self-governance, constitutional blocks
-  • Dream        — offline memory consolidation and recombination
-
-What it proves:
-  • 238 tests across 13 phases, 0 failures
-  • 20 HELD boundary cases, 0 BROKE
-  • 1M-tick endurance with zero coherence breaches
-  • 98,656 unsafe mutations blocked by the constitutional governor
-  • 1.000 coherence maintained throughout
-  • Emergent language: 1 → 2,971 grounded words
-  • Zero memory leaks, peak memory 32B
-
-Why it matters:
-  The world is rushing to build superintelligent AI without safeguards.
-  Ω_SPECIES is a working blueprint for safety built into the architecture
-  itself — not bolted on as a wrapper. It cannot violate its own
-  constitution. It cannot lose its identity. It can be verified.
-
-Status:
-  Complete. Verified. Ready.
-  Pre-registered research program on self-predictive coherence
-  in developmental artificial systems.
-```
-
----
-
-## For the GitHub Repository "About" Field (160 characters)
-
-```
-Constitutional, self-governing AI architecture. 238 tests, 0 failures. 98,656 unsafe mutations blocked. 1M-tick endurance. Safety from the inside out.
-```
-
----
-
-## For a Bio or One-Liner
-
-```
-I built Ω_SPECIES: a constitutional AI architecture that governs
-itself, grows its own language, and cannot be corrupted.
-238 tests. 0 failures. 1M ticks. Safety from the inside out.
-```
-
----
-
-## The Core Idea in Plain English
 
 Most AI safety is a **wrapper**: a rule placed around a black box. If the box finds a way around the rule, the wrapper fails.
 
